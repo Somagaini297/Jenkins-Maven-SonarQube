@@ -3,7 +3,7 @@
 
 SonarQube is an open-source static testing analysis software, it is used by developers to manage source code quality and consistency.
 ## 🧰 Prerequisites
-1. Need an EC2 instance (min t2.small)
+1. Need an Ubuntu EC2 instance with 2GB Ram (min t2.small)
 2. Install Java-11
   ```sh 
    apt-get update   
